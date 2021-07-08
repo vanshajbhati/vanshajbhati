@@ -5,7 +5,7 @@
 
 - 💞️ I’m looking to collaborate on java code and flutter projects.
 
-- 📫 How to reach me at 919315726414 or on vanshajbhati@gmail.com
+- 📫 reach me at 919315726414 or on vanshajbhati@gmail.com
 
 <!---
 vanshajbhati/vanshajbhati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
