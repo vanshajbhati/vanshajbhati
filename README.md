@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanshajbhati
 - 👀 I’m interested in learning fullstack app developmet.
        
-- 🌱 I’m currently learning java and flutter app development.
+- 🌱 I’m currently learning java, flutter app development and also developing basic AI and ML programs.
 
 - 💞️ I’m looking to collaborate on java code and flutter projects.
 
